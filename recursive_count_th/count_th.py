@@ -8,5 +8,4 @@ def count_th(word):
     if 'th' not in word:
         return 0
     else:
-        count = word.count('th')
-        return count
+        return word.count('th')
